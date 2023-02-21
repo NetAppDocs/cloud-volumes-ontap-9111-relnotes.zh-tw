@@ -701,4 +701,8 @@
   <block id="c4426846e80c44f78da5d2553c87de70" category="paragraph">如果Cloud Volumes ONTAP 您有執行3.9.24版或更新版本的Connector、現在所有雲端供應商都可以使用9.11.1 P4修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
   <block id="cae74b75cb879fa6011c4bc1e9acafed" category="inline-link">檢視P4修補程式中修正的錯誤清單</block>
   <block id="fdd4c7c7c56a9b411ca6cf05fb69ae8a" category="paragraph"><block ref="f533ed73bde5a6438c74b91c6480dbdb" category="inline-link-rx"></block> （需登入 NetApp 支援網站）。</block>
+  <block id="46368445107efcb8a1a8cf21f9d8a835" category="section-title">9.11.1 P6（2023年2月19日）</block>
+  <block id="fda5e84662513f8c679709d95801bfd1" category="paragraph">如果Cloud Volumes ONTAP 您有執行3.9.26版或更新版本的Connector、則現在可以使用適用於Azure的9.11.1 P6修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
+  <block id="4d90d21642c7222312363da000d7409f" category="inline-link">檢視在p6修補程式中修正的錯誤清單</block>
+  <block id="721dd678e35facf16435108ddc0af900" category="paragraph"><block ref="db4cc5c156ec22fad0dd710c41cf2743" category="inline-link-rx"></block> （需登入 NetApp 支援網站）。</block>
 </blocks>
