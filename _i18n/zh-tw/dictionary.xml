@@ -640,8 +640,6 @@
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">部落格社群</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp社群</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">雲端網路研討會</block>
-  <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
-  <block id="dea335c9c6f638eb584011e253ad6ca1" category="sidebar">解決方案ONTAP</block>
   <block id="406542fd6b2bb7b1e564e4a6d627bddb" category="paragraph">NetApp不支援超過系統容量限制。如果您達到授權容量上限、則BlueXP會顯示必要行動訊息、不再允許您新增其他磁碟。</block>
   <block id="2819feead2b07762a4465189ab8b2f52" category="paragraph-title">對於HA配對、每個節點或整個HA配對的授權容量限制是多少？</block>
   <block id="7093c2c9844cf46dcd5d50c6d596d244" category="paragraph-title">對於HA配對、鏡射資料是否會根據授權容量限制計算？</block>
@@ -677,7 +675,6 @@
   <block id="846a4ecea919427b6111365c125ada6f" category="list-text">這些欄中所列的數字、包括了BlueXP預設會建立的初始儲存VM。例如、如果此欄中列出24個、表示您可以建立23個額外的儲存VM、總共24個。</block>
   <block id="8e36f0f32d75ebd3c7851e726c538544" category="paragraph"><block ref="8e36f0f32d75ebd3c7851e726c538544" category="inline-link-rx"></block></block>
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP部落格</block>
-  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文件</block>
   <block id="90d21e45df2b69a8345b8381643767db" category="section-title">9.11.1 P4（2022年12月18日）</block>
   <block id="c4426846e80c44f78da5d2553c87de70" category="paragraph">如果Cloud Volumes ONTAP 您有執行3.9.24版或更新版本的Connector、現在所有雲端供應商都可以使用9.11.1 P4修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
   <block id="cae74b75cb879fa6011c4bc1e9acafed" category="inline-link">檢視P4修補程式中修正的錯誤清單</block>
@@ -706,4 +703,8 @@
 <block ref="3f0e03f473a215943c109dc7746cdb60" category="inline-link-macro-rx"></block>。</block>
   <block id="09ea0908fbfc4cde85bf416e35dc55c8" category="inline-link-macro">NetApp支援</block>
   <block id="0b55c70d5652d8fe1f5ddc75633eaa95" category="paragraph">請參閱 <block ref="0bcfd67fb2b966e3378fbf640ee81a22" category="inline-link-macro-rx"></block> 以深入瞭解這些執行個體類型的終止可用度和支援。</block>
+  <block id="20314c780df920e061e85ca664b06b34" category="section-title">9.11.1 第 12 頁（ 2023 年 12 月 8 日）</block>
+  <block id="1c7a84870126840dd00b9ac34caafd27" category="paragraph">所有雲端供應商現在均可使用 Cloud Volumes ONTAP 9.11.1 P12 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
+  <block id="8a1258bf37cf0340b92dd9f9ca39acfa" category="inline-link-macro">檢視 P12 修補程式中修正的錯誤清單</block>
+  <block id="77c997cb28636ecd655e99756fdaa0ba" category="paragraph"><block ref="0b217e42c1535e947bb6ff7ef24ffc50" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
 </blocks>
