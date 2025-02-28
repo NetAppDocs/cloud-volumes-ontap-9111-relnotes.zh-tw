@@ -90,7 +90,7 @@ https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-deploy-aws-
 
 AWS雅加達地區（ap東南3區）現在支援此功能。Cloud Volumes ONTAP
 
-https://cloud.netapp.com/cloud-volumes-global-regions["檢視Cloud Volumes ONTAP 支援區域的完整清單以供參閱"^]
+https://bluexp.netapp.com/cloud-volumes-global-regions["檢視Cloud Volumes ONTAP 支援區域的完整清單以供參閱"^]
 
 
 
@@ -98,7 +98,7 @@ https://cloud.netapp.com/cloud-volumes-global-regions["檢視Cloud Volumes ONTAP
 
 Azure Brazil東南亞地區現已支援此功能。Cloud Volumes ONTAP
 
-https://cloud.netapp.com/cloud-volumes-global-regions["檢視Cloud Volumes ONTAP 支援區域的完整清單以供參閱"^]
+https://bluexp.netapp.com/cloud-volumes-global-regions["檢視Cloud Volumes ONTAP 支援區域的完整清單以供參閱"^]
 
 
 
