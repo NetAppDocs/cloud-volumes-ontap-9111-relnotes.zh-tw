@@ -116,7 +116,7 @@ https://bluexp.netapp.com/cloud-volumes-global-regions["檢視Cloud Volumes ONTA
 
 目前在Milan（歐洲-西8）地區支援的是支援的2個HA配對。Cloud Volumes ONTAP
 
-https://cloud.netapp.com/cloud-volumes-global-regions["檢視Cloud Volumes ONTAP 支援區域的完整清單以供參閱"^]
+https://bluexp.netapp.com/cloud-volumes-global-regions["檢視Cloud Volumes ONTAP 支援區域的完整清單以供參閱"^]
 
 
 
